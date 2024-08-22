@@ -1,0 +1,15 @@
+/Users/alexisbianco/Desktop/fe3h-lexis-version/fe-lexis-version-c-sharp/BattleSystem/bin/Debug/net8.0/BattleSystem
+/Users/alexisbianco/Desktop/fe3h-lexis-version/fe-lexis-version-c-sharp/BattleSystem/bin/Debug/net8.0/BattleSystem.deps.json
+/Users/alexisbianco/Desktop/fe3h-lexis-version/fe-lexis-version-c-sharp/BattleSystem/bin/Debug/net8.0/BattleSystem.runtimeconfig.json
+/Users/alexisbianco/Desktop/fe3h-lexis-version/fe-lexis-version-c-sharp/BattleSystem/bin/Debug/net8.0/BattleSystem.dll
+/Users/alexisbianco/Desktop/fe3h-lexis-version/fe-lexis-version-c-sharp/BattleSystem/bin/Debug/net8.0/BattleSystem.pdb
+/Users/alexisbianco/Desktop/fe3h-lexis-version/fe-lexis-version-c-sharp/BattleSystem/obj/Debug/net8.0/BattleSystem.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alexisbianco/Desktop/fe3h-lexis-version/fe-lexis-version-c-sharp/BattleSystem/obj/Debug/net8.0/BattleSystem.AssemblyInfoInputs.cache
+/Users/alexisbianco/Desktop/fe3h-lexis-version/fe-lexis-version-c-sharp/BattleSystem/obj/Debug/net8.0/BattleSystem.AssemblyInfo.cs
+/Users/alexisbianco/Desktop/fe3h-lexis-version/fe-lexis-version-c-sharp/BattleSystem/obj/Debug/net8.0/BattleSystem.csproj.CoreCompileInputs.cache
+/Users/alexisbianco/Desktop/fe3h-lexis-version/fe-lexis-version-c-sharp/BattleSystem/obj/Debug/net8.0/BattleSystem.sourcelink.json
+/Users/alexisbianco/Desktop/fe3h-lexis-version/fe-lexis-version-c-sharp/BattleSystem/obj/Debug/net8.0/BattleSystem.dll
+/Users/alexisbianco/Desktop/fe3h-lexis-version/fe-lexis-version-c-sharp/BattleSystem/obj/Debug/net8.0/refint/BattleSystem.dll
+/Users/alexisbianco/Desktop/fe3h-lexis-version/fe-lexis-version-c-sharp/BattleSystem/obj/Debug/net8.0/BattleSystem.pdb
+/Users/alexisbianco/Desktop/fe3h-lexis-version/fe-lexis-version-c-sharp/BattleSystem/obj/Debug/net8.0/BattleSystem.genruntimeconfig.cache
+/Users/alexisbianco/Desktop/fe3h-lexis-version/fe-lexis-version-c-sharp/BattleSystem/obj/Debug/net8.0/ref/BattleSystem.dll
